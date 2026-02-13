@@ -8,7 +8,7 @@ function Products({ addToCart }) {
       name: 'Pro Elite',
       category: 'Professional',
       price: '$89.99',
-      features: ['Official size & weight', 'Premium leather', 'Indoor use', 'Championship grade'],
+      features: ['Official size & pounds', 'Premium leather', 'Indoor use', 'Championship grade'],
       color: 'orange'
     },
     {
